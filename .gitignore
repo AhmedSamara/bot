@@ -1,0 +1,16 @@
+*.swp
+*.pyc
+*.swo
+*.swn
+*.swm
+*~
+.DS_Store
+*.egg-info
+*.log
+*.log.[0-9]*
+*.o
+*.bin
+
+/build
+/dist
+.venv
