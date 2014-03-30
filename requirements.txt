@@ -1,3 +1,4 @@
 PyYAML>=3.11
 -e git+git://github.com/jschornick/i2c_device.git#egg=i2c-device
 -e git+git://github.com/IEEERobotics/DMCC_Library.git#egg=pyDMCC
+-e git+git://github.com/IEEERobotics/libbot.git#egg=libbot
